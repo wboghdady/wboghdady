@@ -4,7 +4,7 @@ I am a Software Engineer with +24 years of experience in developing and leading 
  Professional Scrum Master (PSM I ), Scrum.org</br>
  Microsoft Certified Professional Developer (MCPD) in Enterprise Applications Development</br>
  Microsoft Certified Professional (MCP) in many Microsoft technologies</br>
- Certified Neuro Linguistic Programming (NLP) practitioner</br></br></br>
+ Certified Neuro Linguistic Programming (NLP) practitioner</br></br>
 
 My deep Interest is helping organizations and people to be more successful by applying Agile and Lean practices. These practices are also effectively applied on personal level.
 
